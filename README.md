@@ -2,7 +2,7 @@ This repository aims to provide a comprehensive resource for tracking and unders
 
 目录：
 
-- [Language Model Overview](./Language_Model_Overview.md) 
+- [Large Language Model Overview](./Language_Model_Overview.md) 
 
 Basic definitions and information about language models, covering their development history, as well as important academic papers.
 
